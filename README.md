@@ -13,10 +13,10 @@ Características
 Estructura del Proyecto
 FTPClientManager/
  src/com/mycompany/drive/
- FTPClientManager.java # Clase principal de gestión FTP
- AESUtil.java # Clase para cifrado y descifrado de archivos
- pom.xml # Configuración del proyecto (si usa Maven)
- README.md # Documentación del proyecto
+ FTPClientManager.java   # Clase principal de gestión FTP
+ AESUtil.java            # Clase para cifrado y descifrado de archivos
+ pom.xml                 # Configuración del proyecto (si usa Maven)
+ README.md               # Documentación del proyecto
 Instalación y Configuración
 Requisitos previos
 1. Tener instalado Java 8+.
